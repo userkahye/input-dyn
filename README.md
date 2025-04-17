@@ -16,7 +16,7 @@
 
 `paper`: [Gamboa, H., & Fred, A. L. : A Behavioural Biometric System Based on Human-Computer Interaction.](https://sci-hub.st/10.1117/12.542625) 
 
-`why notable`: original; explored human-computer interaction patterns, including mouse movements, for biometric identification, contributing to the understanding of feature extraction from interaction data. (Note: While not solely mouse dynamics, it's often cited in the context of HCI-based biometrics including mouse interactions).
+`why notable`: An original. Explored human-computer interaction patterns, including mouse movements, for biometric identification, contributing to the understanding of feature extraction from interaction data. (Note: While not solely mouse dynamics, it's often cited in the context of HCI-based biometrics including mouse interactions).
 
 ---
 
@@ -24,7 +24,7 @@
 
 `paper`: [Pusara, M., & Brodley, C. E. : User re-authentication via mouse movements.](https://sci-hub.st/10.1145/1029208.1029210)
 
-`why notable`: original; focused specifically on using mouse movements for re-authentication (continuous authentication) and explored anomaly detection approaches to identify imposters during a session.
+`why notable`: An original. Focused specifically on using mouse movements for re-authentication (continuous authentication) and explored anomaly detection approaches to identify imposters during a session.
 
 ---
 
@@ -32,7 +32,7 @@
 
 `paper`: [Ahmed, A. E., & Traore, I. : A new biometric technology based on mouse dynamics.](https://sci-hub.st/10.1109/TDSC.2007.70207)
 
-`why notable`: original; demonstrated the feasibility of using mouse movement patterns as a biometric for user authentication. It introduced foundational features like movement speed, direction, click timings, and traveled distance histograms, achieving promising initial results (e.g., FAR/FRR around 2.46%). This work is frequently cited as establishing mouse dynamics as a viable behavioral biometric.
+`why notable`: An original. Demonstrated the feasibility of using mouse movement patterns as a biometric for user authentication. It introduced foundational features like movement speed, direction, click timings, and traveled distance histograms, achieving promising initial results (e.g., FAR/FRR around 2.46%). This work is frequently cited as establishing mouse dynamics as a viable behavioral biometric.
 
 ---
 
@@ -40,7 +40,7 @@
 
 `paper`: [Revett, K., et al. : A Survey of User Authentication Based on Mouse Dynamics.](https://www.researchgate.net/publication/216864668_A_survey_of_user_authentication_based_on_mouse_dynamics)
 
-`why notable`: review; summarizing the state of the art in user authentication based on mouse dynamics at this time.
+`why notable`: A review. Summarizing the state of the art in user authentication based on mouse dynamics at this time.
 
 ---
 
@@ -48,7 +48,7 @@
 
 `paper`: [Shen, C., et al. : Performance analysis of mouse dynamics for user authentication and identification.](https://sci-hub.st/10.1016/j.cose.2014.05.002)
 
-`why notable`: review; a comparative analysis of different features and classification algorithms for mouse dynamics, contributing to understanding the relative effectiveness of various approaches.
+`why notable`: A review. Comparative analysis of different features and classification algorithms for mouse dynamics, contributing to understanding the relative effectiveness of various approaches.
 
 ---
 
