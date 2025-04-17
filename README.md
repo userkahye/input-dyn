@@ -58,6 +58,16 @@
 
 > TODO; verify papers and improve specificity/precision of "why notable"
 
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9460698/
+
+
+https://kth.diva-portal.org/smash/get/diva2:1846194/FULLTEXT01.pdf
+
+
+https://repository.up.ac.za/bitstream/handle/2263/73125/Ikuesan_Digital_2019.pdf;jsessionid=1C3D4D8D3167684F913DFC76243C5E42?sequence=1
+
+
 `year`: 2013
 
 `paper`:  (https://www.researchgate.net/publication/256819132_Mouse_Movement_Biometric_System)
