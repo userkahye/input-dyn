@@ -12,14 +12,6 @@
 
 ---
 
-`year`: 2003
-
-`paper`: [Hashia, S., Pollett, C., Stamp, M. : On using mouse movements as a biometric.](https://www.researchgate.net/publication/256819132_Mouse_Movement_Biometric_System)
-
-`why notable`: original; earliest exploration proposing and investigating the initial set of quantifiable features derived from raw mouse movement data.  
-
----
-
 `year`: 2004
 
 `paper`: [Gamboa, H., & Fred, A. L. : A Behavioural Biometric System Based on Human-Computer Interaction.](https://sci-hub.st/10.1117/12.542625) 
@@ -63,8 +55,14 @@
 
 > Work in Progress
 
+
 > TODO; verify papers and improve specificity/precision of "why notable"
 
+`year`: 2013
+
+`paper`:  (https://www.researchgate.net/publication/256819132_Mouse_Movement_Biometric_System)
+
+`why notable`:  
 
 **year:** c. 2015-2017 (Year varies)
 
