@@ -4,8 +4,6 @@
 
 > Definition of "notable" as a selection metric.
 
-> original and review papers. originals are often sourced from review papers and validated via citations in other originals.
-
 ## Papers.
 
 ### Mouse Dynamics
