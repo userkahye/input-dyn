@@ -2,8 +2,6 @@
 
 > Work in Progress. TODO:
 
-> Definition of "notable" as a selection metric.
-
 ## Papers.
 
 ### Mouse Dynamics
